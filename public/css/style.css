@@ -1,0 +1,16 @@
+button.close {
+    margin-left: 0 !important;
+}
+h4#custom-width-modalLabel {
+    width: 90%;
+}
+.login {
+    width: 60%;
+    margin: 0 auto;
+}
+@media screen and (max-width: 320px) {
+    .btn {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+}
